@@ -19,7 +19,7 @@ The Data are local so here is just:
 - submission.csv for kaggle
 
 # Results: 
-For this project a blog post on medium is existing. You can find it here[https://medium.com].
+For this project a blog post on medium is existing. You can find it [here](https://medium.com).
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Arvate Bertelsmann and Udacity for the data and Kaggle for scoring. You can find descriptive information on Kaggle. Otherwise, feel free to use the code here as you would like!
