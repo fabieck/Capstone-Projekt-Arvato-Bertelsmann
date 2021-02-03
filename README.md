@@ -14,10 +14,12 @@ This project contains real world data from Bertelsmann Arvato Analytics and aims
 It was edited as part of Udacity's course Data Scientist and is its capstone project. 
 
 # Files:
-The Data are local so here is just the Jupyter Notebook "Arvato Project Workbook.ipynb"
+The Data are local so here is just:
+- Jupyter Notebook "Arvato Project Workbook.ipynb"
+- submission.csv for kaggle
 
 # Results: 
-For this project a blog post on medium is existing. You can find it here.
+For this project a blog post on medium is existing. You can find it here[https://medium.com].
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Arvate Bertelsmann and Udacity for the data and Kaggle for scoring. You can find descriptive information on Kaggle. Otherwise, feel free to use the code here as you would like!
